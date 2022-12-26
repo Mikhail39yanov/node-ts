@@ -1,0 +1,11 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": ["plugin:@typescript-eslint/recommended"],
+  "parserOptions": {
+    "ecmaScript": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+    // "no-process-exit": 0
+  }
+}
